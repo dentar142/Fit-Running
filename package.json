@@ -1,7 +1,7 @@
 {
   "name": "fit-running",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.1.0-beta",
   "type": "module",
   "main": "electron/main.cjs",
   "scripts": {

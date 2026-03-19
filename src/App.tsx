@@ -2067,6 +2067,14 @@ function App() {
             >
               切换{themeMode === 'light' ? '深色' : '浅色'}外观
             </button>
+            <a
+              className="download ghost star-btn"
+              href="https://github.com/dentar142/Fit-Running"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Star on GitHub
+            </a>
           </div>
         </section>
       </div>
@@ -2122,7 +2130,14 @@ function App() {
           >
             导入配置
           </button>
-          <div className="pill">Modern UI</div>
+          <a
+            className="quick-btn star-btn"
+            href="https://github.com/dentar142/Fit-Running"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Star on GitHub
+          </a>
         </div>
       </header>
       <aside className="panel">

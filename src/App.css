@@ -248,6 +248,27 @@
   font-size: 12px;
 }
 
+.star-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+a.star-btn.quick-btn {
+  background: linear-gradient(180deg, #fbbf24, #f59e0b);
+  border-color: #f59e0b;
+  color: #78350f;
+}
+
+a.star-btn.download.ghost {
+  border-color: rgba(251, 191, 36, 0.4);
+  color: #f59e0b;
+}
+
 .batch-preview-item strong {
   font-size: 12px;
 }
